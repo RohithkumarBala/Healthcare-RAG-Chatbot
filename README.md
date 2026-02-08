@@ -122,7 +122,6 @@ streamlit run app.py
 ![alt text](image-4.png)
 
 
-📌 Tip: Recruiters love seeing proof that the UI actually works.
 
 🔁 Local vs Cloud Model Strategy (IMPORTANT)
 
