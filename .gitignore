@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+.env
+
+# Vector DB (can be recreated)
+chroma_db/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Streamlit
+.streamlit/
